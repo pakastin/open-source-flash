@@ -1,5 +1,8 @@
-[![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/pakastin/open-source-flash)
 # Petition to open source Flash and Shockwave spec
+
+[![Join the chat at https://gitter.im/open-source-flash/Lobby](https://badges.gitter.im/open-source-flash/Lobby.svg)](https://gitter.im/open-source-flash/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/pakastin/open-source-flash)
+
+**Edit:** The first letter [is being written](https://github.com/pakastin/open-source-flash/blob/master/the-letter-to-adobe-%5BWIP%5D.md). If you want to contribute to it, you can either make pull requests or join the [Gitter chat](https://gitter.im/open-source-flash/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) to help us organize it 
 
 [Adobe is going to stop distributing and updating Flash player and the Shockwave player](https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html). That's ok.
 
@@ -28,6 +31,8 @@ This petition will be delivered to Adobe.
 - [Infoworld article](http://www.infoworld.com/article/3211348/web-development/petition-asks-adobe-to-open-source-flash.amp.html)
 - [SD Times article](http://sdtimes.com/developer-creates-petition-open-source-flash-specification/)
 - [MakeUseOf article](http://www.makeuseof.com/tag/developers-petition-adobe-open-source-flash/)
+- [The Register article](https://www.theregister.co.uk/2017/07/31/petition_to_open_source_adobe_flash/)
+- [The Inquirer article](https://www.theinquirer.net/inquirer/news/3014805/petition-to-keep-adobe-flash-alive-as-open-source-makes-us-want-to-cry)
 - http://webwereld.nl/software/100140-maak-flash-open-source
 - http://mobil.derstandard.at/2000061874513/Open-Source-Petition-Fans-wollen-Flash-weiterleben-lassen
 - https://www.heise.de/amp/meldung/Petition-Flash-als-Open-Source-Rentner-3786837.html
@@ -60,6 +65,7 @@ Flash and Shockwave was a platform for creative expression in an exciting new me
 We do lots to save and restore old manuscripts so, why not consider any interactive artworks that were developed on this platform and can't be ported truthfully to just a video format.
 
 Feel free to add other interactive art projects, websites, games and experiments that you think deserve to be saved:
+- [We Choose the Moon](http://wechoosethemoon.org/)
 - [25 Most Impressive Flash Sites](http://www.beautifullife.info/web-design/25-most-impressive-flash-sites/)
 - [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
 - [Hoogerbrugge](http://nails.hoogerbrugge.com)
@@ -82,7 +88,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Madness Combat Series](http://www.krinkels.net/index_anim1.html)
 - [DICEWARS](http://www.gamedesign.jp/flash/dice/dice.html)
 - [Chat Noir](http://www.gamedesign.jp/flash/chatnoir/chatnoir.html) (trap the cat)
-- [The GROW games by EYEZMAZE](http://www.eyezmaze.com/)
+- [The GROW games by EYEZMAZE](http://www.eyezmaze.com/) ([Wikipedia](https://en.wikipedia.org/wiki/GROW_(series)))
 - [Club Penguin Rewritten](https://clubpenguinrewritten.pw/)
 - [Full Fist: DeepFriedFunny.com](http://deepfriedfunny.com/)
 - [Realm of the Mad God](http://realmofthemadgod.com/)
@@ -90,8 +96,21 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Beautifl - Flash Gallery of wonderfl](http://beautifl.net/)
 - [Flashmixer](http://www.flashmixer.de)
 - [Defend the wicket](https://www.miniclip.com/games/cricket-defend-the-wicket/en/)
-- [Biomediaproject](http://biomediaproject.com) - Archive of all bionicle promotional material like Mata Nui Online Game and also has huge [archive of old lego flash and shockwave games](http://biomediaproject.com/bmp/files/LEGO/gms/).
+- [Biomediaproject](http://biomediaproject.com) - Archive of all bionicle promotional material like Mata Nui Online Game and 
+also has huge [archive of old lego flash and shockwave games](http://biomediaproject.com/bmp/files/LEGO/gms/).
+- [Memento Mori]( http://mementomori-1.net/ ) - Remember that you have to die
+- [Poke the bunny](http://www.platinumgrit.com/pokethebunny.htm)
+- [Ishkur's Guide to Electronic Music](http://techno.org/electronic-music-guide/) ([Wikipedia](https://en.wikipedia.org/wiki/Ishkur's_Guide_to_Electronic_Music))
+- [QWOP](http://www.foddy.net/Athletics.html) ([Wikipedia](https://en.wikipedia.org/wiki/QWOP))
+- [Drugs and the brain](http://jellinek.nl/brain/)
+- [Frog in a blender](http://joecartoon.com/games/play/65/Frog_in_a_Blender)
 
+## Flash and Shockwave games
+Some of these games will probably disappear if Flash gets killed:
+- [Super Smash Flash 2](https://www.mcleodgaming.com/games/ssf2)
+- [SuperFighters](https://mythologicinteractive.com/Superfighters)
+- [Alien Hominid](http://www.newgrounds.com/portal/view/59593)
+- [Abobo's Big Adventure](http://abobosbigadventure.com/)
 
 ## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
