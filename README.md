@@ -147,3 +147,15 @@ open source and developed by the folks at Apache.
   
 OpenFL can compile code in Haxe into SWF, which means someone knows how to hack these binaries spec.
 Theoretically, we can also use [Starling](https://gamua.com/starling/) to render into HTML canvas and WebGL instead of Adobe's Stage 3D and use the [Apache FlexJS](http://flex.apache.org/) compiler to transpile it into JavaScript. This induces the following flow - migrating Flash based source code into the web.
+
+## For people who don't understand why we need flash open sourced 
+Many developers and projects developed amazing flash applications for companies, or for their own interest during the last 20 years. Until today they are still running, using better system/cpu resources than any kind of javascript since flash player (version 26 today) learned and fixed a lot of issues during this time.
+
+Some projects developers and I asked months and even years to get a very stable version, which includes sometimes millions line of code. As you can see, for various valid and logical reason, these projects won't be developed again and again for the only reason that the development "zeitgeist" is changing every 10 years.
+It's totally absurd and even dangerous for the freedom of Internet.
+
+I recall to develop a Perl application 18 years ago to automate invoices and payment system for a company, during this time I had to change a very few function names and logic, but today it's still working flawlessly.
+The web SHOULD be like that, don't waste developers to reprogram everything decade after decade, it does not make sense at all, especially when the major tech used is not better and even worse than the previous.
+To go forward and avoid to reinvent the wheel again and again, The role of a web browser is to be compatible with an absolute anachronism, thus to prevent any bad guys to control the web technology.
+
+I hope people, trolls and other who definitely not understood why we need flash as open source will now get a better clue of why we absolutely need it done. We have 3 years before the end of the game.
