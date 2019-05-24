@@ -106,6 +106,7 @@ also has huge [archive of old lego flash and shockwave games](http://biomediapro
 - [Drugs and the brain](http://jellinek.nl/brain/)
 - [Frog in a blender](http://joecartoon.com/games/play/65/Frog_in_a_Blender)
 - [Ultimate Flash Sonic](https://www.newgrounds.com/portal/view/151706)
+- [Banned from Equestria (Daily)](https://pokehidden.archive.hexstream.net/banned_from_equestria_daily/game.swf.html)
 
 ## Flash and Shockwave games
 Some of these games will probably disappear if Flash gets killed:
