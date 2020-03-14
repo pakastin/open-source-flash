@@ -94,6 +94,7 @@ Feel free to add other interactive art projects, websites, games and experiments
 - [Full Fist: DeepFriedFunny.com](http://deepfriedfunny.com/)
 - [Realm of the Mad God](http://realmofthemadgod.com/)
 - [Amanita Design Games](http://amanita-design.net/games.html)
+- [Conclave Obscurum](http://www.conclaveobscurum.ru/)
 - [Beautifl - Flash Gallery of wonderfl](http://beautifl.net/)
 - [Flashmixer](http://www.flashmixer.de)
 - [Defend the wicket](https://www.miniclip.com/games/cricket-defend-the-wicket/en/)
