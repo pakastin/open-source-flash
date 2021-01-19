@@ -54,7 +54,7 @@ This petition will be delivered to Adobe.
 ## References
 - [FWA - Flash... Don't Dance on your Dad's grave](https://medium.com/@fwa/flash-don-t-dance-on-your-dad-s-grave-f99287f175d)
 - [Wikipedia: Web Archiving](https://en.wikipedia.org/wiki/Web_archiving)
-- [Adobe open source](https://www.adobe.io/open/open-source.html)
+- [Adobe open source](https://www.adobe.io/open/open-source.html) [Archive](https://web.archive.org/web/20180315093259/https://www.adobe.io/open/open-source.html)
 - [Another petition](https://www.change.org/p/adobe-systems-make-flash-player-open-sourced)
 - [Yet another petition](https://www.change.org/p/adobe-systems-make-flash-open-source-before-it-s-too-late)
 - [History of Flash](http://mashable.com/2012/11/19/history-of-flash/)
