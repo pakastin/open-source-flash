@@ -119,6 +119,7 @@ Some of these games will probably disappear if Flash gets killed:
 
 ## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
+- [Ruffle](https://ruffle.rs) - Open-source flash player made in WebAssembly and used in [WebArchive](https://archive.org/details/flash-games).
 - [AJC Flash –> WebAssembly](https://github.com/JasonHuang3D/AJC-Flash-WebAssembly-Examples)
 - [Gnash](https://www.gnu.org/software/gnash/)
 - [Lightspark](https://lightspark.github.io/)
